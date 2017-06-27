@@ -150,7 +150,7 @@ GetOptions (
             'debug'         => \$OptDebug,
             'release'       => \$OptRelease,
             'releaseinternal' => \$OptReleaseInternal,
-			'releasenda'	=> \$OptReleaseNda,
+            'releasenda'    => \$OptReleaseNda,
             'image'         => \$OptImage,
             'label=s'       => \$OptLabel,
             'install'       => \$OptInstall,
